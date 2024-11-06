@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **tranhaidong/TranHaiDong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About me
+## Hi, I'm Dong. You might recognize me as hdonq.
 
-Hi, I'm Dong. You might recognize me as hdonq.
+
 
 | Rank | THING-TO-RANK |
 |-----:|---------------|
