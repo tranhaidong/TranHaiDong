@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About me
+
+Hi, I'm Dong. You might recognize me as hdonq.
+
+| Rank | THING-TO-RANK |
+|-----:|---------------|
+|     1|  Java         |
+|     2|      Flutter  |
+|     3|          SQL  |
